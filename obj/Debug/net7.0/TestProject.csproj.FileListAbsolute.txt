@@ -1,0 +1,15 @@
+D:\progressio\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.exe
+D:\progressio\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.deps.json
+D:\progressio\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+D:\progressio\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.dll
+D:\progressio\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.pdb
+D:\progressio\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.csproj.AssemblyReference.cache
+D:\progressio\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\progressio\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+D:\progressio\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+D:\progressio\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+D:\progressio\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.dll
+D:\progressio\CsharpProjects\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+D:\progressio\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.pdb
+D:\progressio\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+D:\progressio\CsharpProjects\TestProject\obj\Debug\net7.0\ref\TestProject.dll
